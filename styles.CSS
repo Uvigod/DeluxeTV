@@ -1,0 +1,23 @@
+/* Estilos específicos para computadoras */
+@media (min-width: 1024px) {
+    body {
+        font-size: 18px;
+    }
+    /* Otros estilos para computadoras */
+}
+
+/* Estilos específicos para tabletas */
+@media (max-width: 1023px) and (min-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+    /* Otros estilos para tabletas */
+}
+
+/* Estilos específicos para dispositivos móviles */
+@media (max-width: 767px) {
+    body {
+        font-size: 14px;
+    }
+    /* Otros estilos para dispositivos móviles */
+}
